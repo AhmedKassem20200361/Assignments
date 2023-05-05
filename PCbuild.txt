@@ -1,0 +1,8 @@
+Processor: Intel Core i5-13400F Desktop Processor 10 cores (6 P-cores + 4 E-cores) 20MB Cache, up to 4.6 GHz 
+Graphics Card: GIGABYTE/MSI GeForce RTX 4070 Ti GAMING OC 12G Graphics Card, 3x WINDFORCE Fans, 12GB 192-bit GDDR6X 
+SSD: SAMSUNG 980 SSD 1TB M.2 NVMe Interface Internal Solid State Drive 
+Motherboard: MSI MAG B760 TOMAHAWK WIFI DDR4 LGA 1700 (Intel12th&13th Gen) SATA 6Gb/s ATX or ASRock B660M Steel Legend
+Cooler: Hyper 212 Spectrum V3 Low Profile CPU Air Cooler or ARCTIC Freezer 34 Esports Duo
+Power Supply: Cooler Master MWE Gold 750 V2 or Full Modular 750W 80 Gold
+RAM: Patriot Viper Steel DDR4 32GB (2 x 16GB) 3200MHz Kit or TEAM GROUP T-FORCE DELTA 32GB RGB DDR4 3200MHZ
+
